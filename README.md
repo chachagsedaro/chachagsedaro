@@ -1,8 +1,8 @@
-# Hi there 👨🏼‍🦯
+### Hi there 👨🏼‍🦯
 
-# Welcome to my GitHub 🦫
+### Welcome to my GitHub 🦫
 
-# Enjoy your time here but you may like my website more 🤠 [chachagsedaro](https://chachagsedaro.github.io/website/)
+### Enjoy your time here but you may like my website more 🤠 [chachagsedaro](https://chachagsedaro.github.io/website/)
 
 <!--
 **chachagsedaro/chachagsedaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
