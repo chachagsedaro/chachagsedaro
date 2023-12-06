@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub 🦫
 
-### Enjoy your time here but you may like my website more 🤠 [chachagsedaro](https://chachagsedaro.github.io/website/)
+### Enjoy your time here but you may like my website more {WIP as of December 2023} 🤠 [chachagsedaro](https://chachagsedaro.github.io/website/)
 
 <!--
 **chachagsedaro/chachagsedaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
